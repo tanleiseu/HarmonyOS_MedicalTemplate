@@ -16,4 +16,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 医疗类（医院）行业模板 | 
 |:---:|
-| ![输入图片说明](MedicalCare/screenshots/20250217105429.jpeg)| 
+|![输入图片说明](%E5%8C%BB%E7%96%97%EF%BC%88%E5%8C%BB%E9%99%A2%EF%BC%89%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| 
